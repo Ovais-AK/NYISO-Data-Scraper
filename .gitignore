@@ -1,0 +1,2 @@
+# ignore data folder. do not upload scraped data to git - local only
+/data
