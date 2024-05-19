@@ -11,7 +11,5 @@ To run the scraper:
 2. Use requirements.txt and pip to create the virtual environment (venv).
 3. Run the NYISO prices notebook using venv as the kernel.
 
-Note: Running the entire notebook may take up to an hour.
-
 
 
